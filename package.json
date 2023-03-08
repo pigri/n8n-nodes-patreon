@@ -1,6 +1,6 @@
 {
   "name": "n8n-nodes-patreon",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "This npm package integrates Patreon with n8n, enabling easy automation and management of membership workflows.",
   "keywords": [
     "n8n-community-node-package",
